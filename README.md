@@ -22,3 +22,17 @@
 1. Клонируйте репозиторий:
    ```bash
    git clone https://github.com/CaptainAI-Not404found/python_learning.git
+   
+2. Перейдите в папку проекта:
+   cd python_learning
+   
+4. Запустите программу:
+   python todo_list.py
+   
+Следуйте инструкциям в терминале для взаимодействия с программой.
+Требования
+
+Python 3.x
+Лицензия
+
+Этот проект лицензирован под MIT License - см. LICENSE.md для подробной информации.
